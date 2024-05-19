@@ -4,3 +4,5 @@
 # 支持 零散答疑 lecture同步辅导 assignment专题辅导 test prep 等多种灵活辅导方式
 # VX: csprojhelp 备注：github
 
+![1](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-1.png)
+![2](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-2.png)
