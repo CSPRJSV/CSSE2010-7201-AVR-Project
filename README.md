@@ -27,4 +27,7 @@ Proj 流程大致可划分为：
 欢迎有需要辅导的同学dd～
 
 ![1](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-1.png)
+![3](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-3.png)
+![4](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-4.png)
 ![2](https://github.com/CSPRJSV/CSSE2010-7201-AVR-Project-Battleship/blob/main/ad-2.png)
+
